@@ -1,0 +1,165 @@
+<a href="#note"><sup>+</sup></a>
+
+<p class="footnote1 rb"><a id="note"/><a class="rb" href="#vs1">1:1</a> <i></i> - </p>
+<p class="footnote1a rb"><a class="rb" href="#vs1">1:1</a> <i></i> - </p>
+
+
+<p class="mb-text">
+</p>
+<p class="poetry">
+</p>
+<p class="mt-text">
+<p class="mt-text"/>
+
+
+
+		<ul class="no-bull"><li></li></ul>
+
+						<ul class="bullist-nm3">
+							<li></li>
+							<li></li>
+						</ul>
+
+	<div class="appendix">
+		<div class="appendix-header"><a id="geo"/><span class="appendix-name"></span> - </div>
+		<div class="appendix-betekenis">Betekenis: </div>
+	</div>
+	
+			<li>Een van de helden van  <a class="appendix-nm" href="namen-d.html#nmDavid">David</a> in <a class="appendix" href="geografie-zer.html#geoZiklag">Ziklag</a>
+	
+
+	
+					<li><i>Bijzonderheden</i>: Staat in het geslachtsregister van de <a class="appendix-nm" href="namen-mes.html#nmMessias">Messias</a></li>
+							<li>Staat in het geslachtsregister van de <a class="appendix-nm" href="namen-mes.html#nmMessias">Messias</a></li>
+
+	
+	
+X
+X, de zoon van Y -> Vader: Y
+Y
+X, de zoon van Y -> Vader van X
+
+<i class="appendix">
+ class="appendix"
+	
+Koning van <a class="appendix" href="geografie-isr.html#geoIsrael">Isra&#235;l</a>
+<a class="appendix" href="woordenboek-k.html#wbKoningVanJakob">Koning van Jakob"</a>
+
+
+		<div class="appendix-betekenis">Betekenis: </div>
+
+		<div class="appendix-namelink">
+			Andere naam: 
+		</div>
+
+
+
+
+<a class="appendix" href="woordenboek-a.html#wbApollyon">Apollyon</a>
+<a class="appendix" href="woordenboek-b.html#wbBlauwpurper">blauwpurper</a>
+<a class="appendix" href="woordenboek-d.html#wbDienaar2">dienaars</a>
+<a class="appendix" href="woordenboek-g.html#wbGlorie">glorie</a>
+<a class="appendix" href="woordenboek-h.html#wbHoofdpriester">hoofdpriester</a>
+<a class="appendix" href="woordenboek-i.html#wbIskariot">Iskariot</a>
+<a class="appendix" href="woordenboek-k.html#wbKas">kassen</a>
+<a class="appendix" href="woordenboek-m.html#wbMagistraat">magistraten</a>
+<a class="appendix" href="woordenboek-o.html#wbOpziener">opziener</a>
+<a class="appendix" href="woordenboek-p.html#wbPurper">purperen</a>
+<a class="appendix" href="woordenboek-r.html#wbRoodpurper">roodpurper</a>
+<a class="appendix" href="woordenboek-s.html#wbScharlakenrood">scharlakenrode</a>
+<a class="appendix" href="woordenboek-t.html#wbTenach">Tenach</a>
+<a class="appendix" href="woordenboek-v.html#wbViervorst">viervorst</a><a class="appendix" href="woordenboek-w.html#wbWichelarij">wichelarij</a>
+<a class="appendix" href="woordenboek-z.html#wbZiener">zieners</a>
+
+<a class="appendix-nm" href="namen-a.html#nmAaron">A&#225;ron</a>
+<a class="appendix-nm" href="#nmAhasveros">Ahasveros</a>
+
+
+<ul class="bullist-nm1"><li></li></ul>
+
+<a class="appendix" href="geografie-a.html#geoAbelMehola">Abel-Mehola</a>
+<a class="appendix" href="geografie-a.html#geoAbelMizraim">Abel-Mizra&#239;m</a>
+<a class="appendix" href="geografie-a.html#geoAbelSittim">Abel-Sittim</a>
+<a class="appendix" href="geografie-mil.html#geoMillo">Millo</a>
+<a class="appendix" href="woordenboek-b.html#wbBarmhartig">barmhartigheid</a>
+
+<a class="appendix" href="goden.html#gdHermes">Hermes</a>
+
+<a class="appendix" href="geografie-apo.html#geoAram">Aram</a>
+<a class="appendix" href="geografie-asn.html#geoAssyrie">Assyri&#235;</a>
+<a class="appendix" href="geografie-bab.html#geoBabylon">Babylon</a>
+<a class="appendix" href="geografie-che.html#geoChoresa">Choresa</a>
+<a class="appendix" href="geografie-dan.html#geoDan1">Dan</a>
+<a class="appendix" href="geografie-e.html#geoEdom">Edom</a>
+<a class="appendix" href="geografie-efr.html#geoEfraim">Efra&#239;m</a>
+<a class="appendix" href="geografie-egy.html#geoEgypte">Egypte</a>
+<a class="appendix" href="geografie-f.html#geoFilistijn">Filistijn</a>
+<a class="appendix" href="geografie-g.html#geoGalilea">Galilea</a>
+<a class="appendix" href="geografie-gil.html#geoGilead">Gilead</a>
+<a class="appendix" href="geografie-heb.html#geoHebron">Hebron</a>
+<a class="appendix" href="geografie-isr.html#geoIsrael">Isra&#235;l</a>
+<a class="appendix" href="geografie-je.html#geoJeruzalem">Jeruzalem</a>
+<a class="appendix" href="geografie-ju.html#geoJuda">Juda</a>
+<a class="appendix" href="geografie-kam.html#geoKanaan">Kana&#228;n</a>
+<a class="appendix" href="geografie-le.html#geoLeviet">Levieten</a>
+<a class="appendix" href="geografie-moa.html#geoMoab">Moab</a>
+<a class="appendix" href="geografie-ni.html#geoNo">No</a>
+<a class="appendix" href="geografie-o.html#geoOverjordaanse">Overjordaanse</a>
+<a class="appendix" href="geografie-pe.html#geoPeor">Peor</a>
+<a class="appendix" href="geografie-pe.html#geoPerzie">Perzi&#235;</a>
+<a class="appendix" href="geografie-ri.html#geoRome">Rome</a>
+<a class="appendix" href="geografie-sam.html#geoSamaria">Samaria</a>
+<a class="appendix" href="geografie-ti.html#geoTiberias">Tiberias</a>
+<a class="appendix" href="geografie-zer.html#geoZiklag">Ziklag</a>
+
+<a class="appendix" href="woordenboek-a.html#wbApostel">apostelen</a>
+<a class="appendix" href="woordenboek-d.html#wbDiscipel">discipelen</a>
+<a class="appendix" href="woordenboek-h.html#wbHogepriester">hogepriester</a>
+<a class="appendix" href="woordenboek-p.html#wbPriester">priester</a>
+<a class="appendix" href="woordenboek-p.html#wbProfeet">profeet</a>
+<a class="appendix" href="woordenboek-w.html#wbWetgeleerde">wetgeleerde</a>
+<a class="appendix" href="woordenboek-t.html#wbThora">Thora</a>
+<a class="appendix" href="woordenboek-z.html#wbZiener">ziener</a>
+
+<a class="appendix-nm" href="namen-a.html#nmAaron">A&#228;ron</a>
+<a class="appendix-nm" href="namen-abj.html#nmAbraham">Abraham</a>
+<a class="appendix-nm" href="namen-d.html#nmDavid">David</a>
+<a class="appendix-nm" href="namen-eu.html#nmEzau">Ezau</a>
+<a class="appendix-nm" href="namen-eu.html#nmEzra">Ezra</a>
+<a class="appendix-nm" href="namen-is.html#nmIsmael">Isma&#235;l</a>
+<a class="appendix-nm" href="namen-jai.html#nmJakob">Jakob</a>
+<a class="appendix-nm" href="namen-jer.html#nmJeremia">Jeremia</a>
+<a class="appendix-nm" href="namen-jeu.html#nmJezus">Jezus</a>
+<a class="appendix-nm" href="namen-k.html#nmKahath">Kahath</a>
+<a class="appendix-nm" href="namen-k.html#nmKaleb">Kaleb</a>
+<a class="appendix-nm" href="namen-mer.html#nmMerari">Merari</a>
+<a class="appendix-nm" href="namen-mes.html#nmMessias">Messias</a>
+<a class="appendix-nm" href="namen-moz.html#nmMozes">Mozes</a>
+<a class="appendix-nm" href="namen-nat.html#nmNebukadnezar">Nebukadnezar</a>
+<a class="appendix-nm" href="namen-ned.html#nmNehemia">Nehemia</a>
+<a class="appendix-nm" href="namen-noa.html#nmNoach">Noach</a>
+<a class="appendix-nm" href="namen-p.html#nmPaulus">Paulus</a>
+<a class="appendix-nm" href="namen-sal.html#nmSalomo">Salomo</a>
+<a class="appendix-nm" href="namen-sar.html#nmSaul">Saul</a>
+<a class="appendix-nm" href="namen-sem.html#nmSem">Sem</a>
+<a class="appendix-nm" href="namen-sem.html#nmSemaja">Semaja</a>
+<a class="appendix-nm" href="namen-zee.html#nmZerubbabel">Zerubbabel</a>
+
+// In namen-register onder label stam de naam verwijzen naar de persoon en niet naar het leefgebied
+<a class="appendix-nm" href="namen-art.html#nmAser">Aser</a>
+<a class="appendix-nm" href="namen-ben.html#nmBenjamin">Benjamin</a>
+<a class="appendix-nm" href="namen-d.html#nmDan">Dan</a>
+<a class="appendix-nm" href="namen-e.html#nmEfraim">Efra&#239;m</a>
+<a class="appendix-nm" href="namen-g.html#nmGad">Gad</a>
+<a class="appendix-nm" href="namen-is.html#nmIssaschar">Issaschar</a>
+<a class="appendix-nm" href="namen-joz.html#nmJozef">Jozef</a>
+<a class="appendix-nm" href="namen-ju.html#nmJuda">Juda</a>
+<a class="appendix-nm" href="namen-l.html#nmLevi">Levi</a>
+<a class="appendix-nm" href="namen-mam.html#nmManasse">Manasse</a>
+<a class="appendix-nm" href="namen-n.html#nmNaftali">Naftali</a>
+<a class="appendix-nm" href="namen-rh.html#nmRuben">Ruben</a>
+<a class="appendix-nm" href="namen-sim.html#nmSimeon">Simeon</a>
+<a class="appendix-nm" href="namen-zeb.html#nmZebulon">Zebulon</a>
+
+
+
