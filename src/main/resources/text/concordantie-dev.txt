@@ -1,5 +1,4 @@
-beschroomd
-// klaarzetten # klaarzet, klaarzette, klaargezet, klaar zetten, klaar zet, klaar zette, klaar gezet
+klaarzetten # klaarzet, klaarzette, klaargezet, klaar zetten, klaar zet, klaar zette, klaar gezet
 // kletteren - kletter, klettert, kletterde, kletterden, gekletterd
 // koraal
 // manen
