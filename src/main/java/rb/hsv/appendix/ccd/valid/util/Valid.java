@@ -148,6 +148,8 @@ public class Valid {
             isValid = ValidHoofd.isValid(keyArg, arg, curFile, vs);
         } else if (isHopen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidHopen.isValid(keyArg, arg, curFile, vs);
+        } else if (isHoren(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidHoren.isValid(keyArg, curFile, vs);
         } else if (isHouden(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidHouden.isValid(keyArg, arg, curFile, vs);
         } else if (isHouwen(keyArg, isSamengesteldWerkwoord)) {

@@ -1001,6 +1001,14 @@ public class ValidUtil {
         return isValid;
     } // isHopen
 
+    public static boolean isHoren(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("aanhoren");
+        var isTeCheckenString = keyArg.equals("horen")
+                || keyArg.equals("ten aanhoren van");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isHoren
+
     public static boolean isHouden(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;
 
