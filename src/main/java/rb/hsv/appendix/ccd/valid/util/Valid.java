@@ -198,6 +198,8 @@ public class Valid {
             isValid = ValidLeven.isValid(keyArg, arg, curFile, vs);
         } else if (isLeveren(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidLeveren.isValid(keyArg, curFile, vs);
+        } else if (isLezen(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidLezen.isValid(keyArg, curFile, vs);
         } else if (isLichten(keyArg, arg, isSamengesteldWerkwoord)) {
             isValid = ValidLichten.isValid(keyArg, arg, curFile, vs);
         } else if (isLiggen(keyArg, isSamengesteldWerkwoord)) {

@@ -1003,8 +1003,7 @@ public class ValidUtil {
 
     public static boolean isHoren(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isTeCheckenWerkwoord = keyArg.equals("aanhoren");
-        var isTeCheckenString = keyArg.equals("horen")
-                || keyArg.equals("ten aanhoren van");
+        var isTeCheckenString = keyArg.equals("horen");
 
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
     } // isHoren
@@ -1426,6 +1425,14 @@ public class ValidUtil {
 
         return isValid;
     }
+
+    public static boolean isLezen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("aflezen")
+                || keyArg.equals("voorlezen");
+        var isTeCheckenString = keyArg.equals("lezen");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isHoren
 
     public static boolean isLichten(final @NotNull String keyArg, final @NotNull String arg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;

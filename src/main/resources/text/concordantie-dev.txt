@@ -1,10 +1,8 @@
-aflezen # aflees, afleest, aflas, aflazen, afgelezen, af lezen, af lees, af leest, af las, af lazen, af gelezen
-// aftekenen # afteken, aftekent, aftekende, aftekenden, afgetekend, af tekenen, af teken, af tekent, af tekende, af tekenden, af getekend
+aftekenen # afteken, aftekent, aftekende, aftekenden, afgetekend, af tekenen, af teken, af tekent, af tekende, af tekenden, af getekend
 // beschroomd
 // klaarzetten # klaarzet, klaarzette, klaargezet, klaar zetten, klaar zet, klaar zette, klaar gezet
 // kletteren - kletter, klettert, kletterde, kletterden, gekletterd
 // koraal
-lezen - lees, leest, las, lazen, gelezen
 // manen
 // masker - maskers
 // nat - natte
