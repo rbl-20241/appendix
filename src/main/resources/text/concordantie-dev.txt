@@ -1,5 +1,4 @@
-aftekenen # afteken, aftekent, aftekende, aftekenden, afgetekend, af tekenen, af teken, af tekent, af tekende, af tekenden, af getekend
-// beschroomd
+beschroomd
 // klaarzetten # klaarzet, klaarzette, klaargezet, klaar zetten, klaar zet, klaar zette, klaar gezet
 // kletteren - kletter, klettert, kletterde, kletterden, gekletterd
 // koraal

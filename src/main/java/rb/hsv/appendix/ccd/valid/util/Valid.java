@@ -336,6 +336,8 @@ public class Valid {
             isValid = ValidStrooien.isValid(keyArg, curFile, vs);
         } else if (isSturen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidSturen.isValid(keyArg, curFile, vs);
+        } else if (isTekenen(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidTekenen.isValid(keyArg, curFile, vs);
         } else if (isTeSchande(keyArg)) {
             isValid = ValidTeSchande.isValid(keyArg, arg, curFile, vs);
         } else if (isTerAarde(keyArg)) {

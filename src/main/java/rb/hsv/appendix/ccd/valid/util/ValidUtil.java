@@ -2498,6 +2498,15 @@ public class ValidUtil {
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
     } // isSturen
 
+    public static boolean isTekenen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("aftekenen")
+                || keyArg.equals("optekenen");
+        var isTeCheckenString = keyArg.equals("teken")
+                || keyArg.equals("tekenen");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isTekenen
+
     public static boolean isTeSchande(final @NotNull String keyArg) {
         return keyArg.equals("te schande maken")
                 || (keyArg.equals("te schande worden"));
