@@ -23,7 +23,7 @@ import static rb.hsv.appendix.ccd.valid.util.Valid.*;
 public class CreateConcordantie {
 
     private static final Boolean IS_CCD_DEV = true;
-    private static final Boolean IS_SHOW_ALL_SAMENGESTELD_WERKWOORD = true;
+    private static final Boolean IS_SHOW_ALL_SAMENGESTELD_WERKWOORD = false;
 
     private static final String NORMAL_DIVIDER = " - ";
     private static final String VERB_DIVIDER = " # ";
@@ -514,7 +514,7 @@ public class CreateConcordantie {
 
         if (isArgMetMeerdereSpaties(arg)) {
             return 0;
-        } else if (!arg.contains(" ") && !isShowAllWhenSamengesteldWerkwoord()) {
+        } else if (!isShowAllWhenSamengesteldWerkwoord(arg)) {
             return 0;
         } else if (!arg.contains(" ")) {
             return searchArgumentsInLine(false, keyArg, arg, totalArgs, thisFile, vs, bookName, bookIndex, chapter, line, firstArgInLine, true);
@@ -963,9 +963,11 @@ public class CreateConcordantie {
 
     }
 
-    private boolean isShowAllWhenSamengesteldWerkwoord() {
+    private boolean isShowAllWhenSamengesteldWerkwoord(final @NotNull String arg) {
         if (IS_CCD_DEV) {
-            return IS_SHOW_ALL_SAMENGESTELD_WERKWOORD;
+            if (!arg.contains(" ")) {
+                return IS_SHOW_ALL_SAMENGESTELD_WERKWOORD;
+            }
         }
 
         return true;

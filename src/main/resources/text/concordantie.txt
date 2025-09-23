@@ -4381,7 +4381,7 @@ ondersteboven keren # keert ondersteboven, keerde ondersteboven, ondersteboven g
 onderstel - onderstellen
 ondersteunen - ondersteun, ondersteunt, ondersteunde, ondersteunden, ondersteund
 ondersteuning
-ondertekenen - onderteken,ondertekende, ondertekend
+ondertekenen - onderteken, ondertekende, ondertekend
 ondertekening
 ondertrouw
 ondertrouwd - ondertrouwde
@@ -4829,7 +4829,6 @@ opsteken # opsteekt, opstak, stak op
 opstellen # opstelt, opstelde, opgesteld, stel op, stellen op, stelde op, stelden op
 opstijgen # opsteeg, opgestegen, op stijgt, op stijgen, op steeg, op stegen
 opstoken - opgestookt
-optekenen - opgetekend
 optillen # optilt, opgetild, op tilde, op tilden
 optreden # optreedt, opgetreden, op treden, op trad
 optrekken # optrekt, optrok, optrokken, opgetrokken, trek op, trekt op, trekken op, trok op, trokken op
@@ -8471,4 +8470,20 @@ nieuw verbond - nieuwe verbond
 verbinden - verbindt, verbonden
 wegleggen # weggelegd, weg legden
 wegwaaien # weggewaaid
-wekken - wek, wekt, wekte, wekten, gewekt
+wekken - wekt, wekte, wekten, gewekt
+aanhoren # aanhoort, aangehoord, aan horen, aan hoor, aan hoort, aan hoorde, aan hoorden
+aflezen # af lezen
+lezen - lees, leest, las, lazen, gelezen
+aftekenen # afgetekend, af tekent
+optekenen # opgetekend, op teken
+tekenen - teken, getekend
+beschroomd
+klaarzetten
+kletteren - klettert
+koraal
+manen
+masker
+nat
+trillend
+visharpoen
+wegdrijven # wegdrijft, weggedreven, weg drijven, weg dreef, weg dreven

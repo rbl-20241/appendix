@@ -1,9 +1,7 @@
-klaarzetten # klaarzet, klaarzette, klaargezet, klaar zetten, klaar zet, klaar zette, klaar gezet
-// kletteren - kletter, klettert, kletterde, kletterden, gekletterd
-// koraal
-// manen
-// masker - maskers
-// nat - natte
-// trillend
-// visharpoen - visharpoenen
-// wegdrijven # wegdrijf, wegdrijft, wegdreef, wegdreven, weggedreven, weg drijven, weg drijf, weg drijft, weg dreef, weg dreven, weg gedreven
+overzien # overzie, overziet, overzag, overzagen, over zien, over zie, over ziet, over zag, over zagen
+// raken - raak, raakt, raakte, raakten, geraakt
+// snode
+// tonen - toon, toont, toonde, toonden, getoond
+// veinzen - veins, veinst, veinsde, veinsden, geveinsd
+// zin
+// zin - zinnen
