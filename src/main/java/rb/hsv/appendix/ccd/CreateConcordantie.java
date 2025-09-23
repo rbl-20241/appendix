@@ -23,7 +23,7 @@ import static rb.hsv.appendix.ccd.valid.util.Valid.*;
 public class CreateConcordantie {
 
     private static final Boolean IS_CCD_DEV = true;
-    private static final Boolean IS_SHOW_ALL_SAMENGESTELD_WERKWOORD = false;
+    private static final Boolean IS_SHOW_ALL_SAMENGESTELD_WERKWOORD = true;
 
     private static final String NORMAL_DIVIDER = " - ";
     private static final String VERB_DIVIDER = " # ";

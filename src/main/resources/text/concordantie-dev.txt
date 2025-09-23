@@ -1,4 +1,4 @@
-overzien # overzie, overziet, overzag, overzagen, over zien, over zie, over ziet, over zag, over zagen
+overzien # overzie, overziet, overzag, overzagen
 // raken - raak, raakt, raakte, raakten, geraakt
 // snode
 // tonen - toon, toont, toonde, toonden, getoond
