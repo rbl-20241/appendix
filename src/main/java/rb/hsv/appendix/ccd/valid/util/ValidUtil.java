@@ -2533,6 +2533,14 @@ public class ValidUtil {
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
     } // isToevallen
 
+    public static boolean isTonen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("aantonen");
+        var isTeCheckenString = keyArg.equals("tonen")
+                || keyArg.equals("toon");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isTonen
+
     public static boolean isTreden(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isTeCheckenWerkwoord = keyArg.equals("aantreden")
                 || keyArg.equals("binnentreden")

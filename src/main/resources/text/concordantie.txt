@@ -2656,7 +2656,7 @@ heupgewricht - heupgewrichten
 heupspier
 heuvel - heuvels
 heuvel van God
-hevig - hevige
+hevig - hevige, heviger
 hiel - hielen
 hielpees - hielpezen
 hierna
@@ -8487,3 +8487,20 @@ nat
 trillend
 visharpoen
 wegdrijven # wegdrijft, weggedreven, weg drijven, weg dreef, weg dreven
+achterhalen
+beletten - belet, belette
+duiken - duikt
+inheems - inheemse
+natrappen # nagetrapt
+omvang
+omvangen - omving
+opbeuren # op beurde
+opgang
+overzien # overzag
+zin
+raken - raakt, raakte, raakten, geraakt
+snode
+aantonen # aan tonen, 
+toon
+tonen - toon, toont, toonde, toonden, getoond
+veinzen - veinst, veinsden, geveinsd

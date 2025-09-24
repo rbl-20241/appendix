@@ -346,6 +346,8 @@ public class Valid {
             isValid = ValidTillen.isValid(keyArg, curFile, vs);
         } else if (isToevallen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidToevallen.isValid(keyArg, curFile, vs);
+        } else if (isTonen(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidTonen.isValid(keyArg, curFile, vs);
         } else if (isTreden(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidTreden.isValid(keyArg, arg, curFile, vs);
         } else if (isTreffen(keyArg, isSamengesteldWerkwoord)) {
