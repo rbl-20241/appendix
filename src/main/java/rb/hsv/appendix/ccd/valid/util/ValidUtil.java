@@ -3174,6 +3174,10 @@ public class ValidUtil {
         return isValid;
     }
 
+    public static boolean isZin(final @NotNull String keyArg) {
+        return keyArg.equals("zin");
+    } // isZin
+
     public static boolean isZijn(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;
 

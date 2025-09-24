@@ -1,7 +1,7 @@
-overzien # overzie, overziet, overzag, overzagen
-// raken - raak, raakt, raakte, raakten, geraakt
-// snode
-// tonen - toon, toont, toonde, toonden, getoond
-// veinzen - veins, veinst, veinsde, veinsden, geveinsd
-// zin
-// zin - zinnen
+raken - raak, raakt, raakte, raakten, geraakt
+snode
+tonen - toon, toont, toonde, toonden, getoond
+veinzen - veins, veinst, veinsde, veinsden, geveinsd
+buiten zinnen
+zin
+zinnen zetten op # zinnen zet, zinnen zetten, zinnen zette, zinnen gezet

@@ -444,6 +444,8 @@ public class Valid {
             isValid = ValidZien.isValid(keyArg, arg, curFile, vs);
         } else if (isZijn(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidZijn.isValid(keyArg, arg, curFile, vs);
+        } else if (isZin(keyArg)) {
+            isValid = ValidZin.isValid(curFile, vs);
         } else if (isZitten(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidZitten.isValid(keyArg, curFile, vs);
         } else if (isZoeken(keyArg, isSamengesteldWerkwoord)) {
