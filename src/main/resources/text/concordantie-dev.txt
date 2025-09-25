@@ -1,6 +1,5 @@
-val - vallen
-// verkeer
-// verkeerd - verkeerde
-// verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
-// verslindend - verslindende
-// zingend - zingende
+verkeerd - verkeerde
+verkeerde - verkeerden
+verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
+verslindend - verslindende
+zingend - zingende

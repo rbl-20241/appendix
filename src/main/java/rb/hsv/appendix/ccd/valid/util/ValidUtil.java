@@ -2731,6 +2731,12 @@ public class ValidUtil {
                 || keyArg.equals("verbinden");
     } // isVerbinden
 
+    public static boolean isVerkeren(final @NotNull String keyArg) {
+        return keyArg.equals("verkeerd")
+                || keyArg.equals("verkeerde")
+                || keyArg.equals("verkeren");
+    } // isVerkeren
+
     public static boolean isVerlichten(final @NotNull String keyArg) {
         return keyArg.equals("verlichten")
                 || (keyArg.equals("verlicht"));

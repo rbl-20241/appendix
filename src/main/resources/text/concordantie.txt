@@ -36,6 +36,7 @@ aanhang
 aanhanger - aanhangers
 aanhef
 aanheffen # aanhef, aanhief, aan hef, aan heffen, aan hief
+aanhoren # aanhoort, aangehoord, aan horen, aan hoor, aan hoort, aan hoorde, aan hoorden
 aanhouden # houd aan, hield aan, hielden aan
 aanhoudend - aanhoudende
 aanjagen # aanjaagt, aanjoeg, aangejaagd, jaag aan, jaagt aan, jagen aan, joeg aan, joegen aan
@@ -82,6 +83,7 @@ aanstoots
 aantal
 aantasten # tastte aan
 aantocht
+aantonen # aan tonen, 
 aantreden # aan trad
 aantreffen # aantreft, aantrof, aantroffen, aangetroffen, treft aan, treffen aan, trof aan, troffen aan
 aantrekkelijkheid
@@ -139,6 +141,7 @@ achterblijven - achterbleef, achtergebleven
 achterbout
 achterdocht
 achterdochtig
+achterhalen
 achterhoede
 achterhouden # achterhoud, achtergehouden, houdt achter, hield achter
 achterlaten # achterlaat, achterliet, achterlieten, achtergelaten, laat achter, laten achter, liet achter, lieten achter
@@ -231,6 +234,7 @@ afkoopsom
 afkopen
 afleggen # aflegt, afgelegd, af leg, af legt, af leggen, af legde, af legden
 afleveren # lever af, leverde af
+aflezen # af lezen
 afmaaien
 afmatten # afgemat, af mat, af matten
 afmeten # afgemeten, af meten, af mat
@@ -271,9 +275,11 @@ afstammen # afstamt, afstamde, afstamden, af stammen, af stamde
 afstamming
 afstand
 afsterven # afgestorven
+afstoten # af stoten, af stootte
 afstraling
 afstropen # stroop af, stropen af, stroopten af
 afsturen # afgestuurd, af sturen
+aftekenen # afgetekend, af tekent
 aftellen
 aftrekken # aftrekt, afgetrokken, af trek, af trekt
 afval
@@ -448,6 +454,8 @@ bakster - baksters
 baktrog - zie wbBaktrog
 bakwerk
 balk - balken
+balk - balken
+balken - balkt
 balling - ballingen
 ballingschap
 balsem
@@ -483,6 +491,7 @@ bazuinstoot - bazuinstoten
 beambte - beambten
 beangst
 beangstigend - beangstigende
+beantwoorden - beantwoord, beantwoordde
 bebladerd - bebladerde
 bebost - beboste
 bed - bedden
@@ -626,6 +635,7 @@ belegering
 belegeringsdam - belegeringsdammen
 belegeringswal
 belemmeren - belemmerd
+beletten - belet, belette
 Belial - zie gdBelial
 belichaming
 belijden - belijd, belijdt, beleed, beleden
@@ -725,6 +735,7 @@ beschimping - beschimpingen
 beschouwen - beschouw, beschouwt, beschouwd
 beschrijven - beschrijf, beschreef, beschreven
 beschrijving
+beschroomd
 beschuldigen - beschuldigt, beschuldigde, beschuldigden, beschuldigd
 beschuldiger - beschuldigers
 beschuldiging - beschuldigingen
@@ -1451,6 +1462,7 @@ doornhaag
 doornsprinkhaan
 doornstruik - doornstruiken
 doorreis
+doorslikken # doorslikt, door slikken
 doorsnee
 doorsteken # doorsteek, doorstak, doorstoken
 doortrekken # doortrokken, doorgetrokken, door trek, door trekt, door trekken, door trok, door trokken, door getrokken
@@ -1570,6 +1582,7 @@ duidelijk
 duidelijk maken # maakte duidelijk, gemaakt duidelijk
 duidelijker
 duif - duiven
+duiken - duikt
 duim - duimen
 duister - duistere
 duisternis - duisternissen
@@ -1668,6 +1681,7 @@ eetzaal
 eeuw - eeuwen
 eeuwenoud - eeuwenoude
 eeuwig - eeuwige
+eeuwig verbond - eeuwige verbond
 eeuwigheid - eeuwigheden
 efa - zie cmEfa
 Effatha
@@ -2911,6 +2925,7 @@ inbraak
 inbreken # breekt in
 indelen # indeelden, ingedeeld, in deelde, in deelden
 indeling - indelingen
+indrinken # indrinkt, in drinkt
 indruisen # indruist
 indrukwekkend - indrukwekkende, indrukwekkends
 ineengedoken
@@ -2930,6 +2945,7 @@ ingrijpen # in grijp, in grijpen
 inhalen # inhaalt, ingehaald, in haal, in haalt, in halen, in haalde, in haalden
 inhalig
 inham
+inheems - inheemse
 inhoud
 inhouden # inhoud, inhoudt, ingehouden, houd in, houdt in, houden in, hielden in
 inhouding
@@ -3051,6 +3067,7 @@ kalksteen
 kalm
 kalmeren - gekalmeerd
 kalmoes - zie wbKalmoes
+kalven - kalft
 kameel - kamelen
 kameelhaar
 kameelzadel
@@ -3136,6 +3153,7 @@ klaarleggen # klaar leg
 klaarlicht - klaarlichte
 klaarmaken # klaarmaakt, klaargemaakt, maak klaar, maken klaar, maakte klaar, maakten klaar
 klaarstaan # klaarstonden, klaar staan, klaar staat
+klaarzetten
 klacht
 klagen - klaag, klaagt
 klagend
@@ -3162,6 +3180,7 @@ kleinste - kleinsten
 kleinvee
 kleren 
 kletspraat
+kletteren - klettert
 kleur - kleuren
 kleurig - kleurige
 kleurrijk - kleurrijke
@@ -3175,6 +3194,7 @@ klont - klonten
 kloof - kloven
 kloppen - klop, klopt, klopte
 kloven - klooft, kloofde, kloofden, gekloofd
+kluit - kluiten
 kluwen
 knap - knappe
 knapper - knappere
@@ -3269,6 +3289,7 @@ koperwerk
 koperwerker
 koppelen - koppelde, koppelden, gekoppeld
 kor - zie cmKor
+koraal
 korban
 koren
 korenbrand - zie wbKorenbrand
@@ -3589,6 +3610,7 @@ levenswijze
 lever
 leveren - lever, levert, leverde, leverden, geleverd
 Leviathan - zie wbLeviathan
+lezen - lees, leest, las, lazen, gelezen
 Libertijn - Libertijnen
 lichaam - lichamen
 lichaamsdeel - lichaamsdelen
@@ -3658,6 +3680,7 @@ lippentaal
 list - listen
 listig - listige, listigste
 litteken - littekens
+loeien - loeit
 loeren - loer, loert, loerde, loerden, geloerd
 lof
 loffelijk - loffelijke
@@ -3774,6 +3797,7 @@ Man
 man Gods
 mand - manden
 mandje
+manen
 manier - manieren
 mank
 manmoedig
@@ -3793,6 +3817,7 @@ marktplaats
 marktplein
 marktvolk
 marmer - marmeren
+masker
 mast - masten
 mateloos - mateloze
 materiaal
@@ -3826,6 +3851,7 @@ meelbloem
 meeldauw - zie wbMeeldauw
 meelopen # meeloopt, meeliep, mee loopt
 meenemen # meenam, meenamen, meegenomen, neem mee, neemt mee, nemen mee, nam mee, namen mee
+meer (wateroppervlak)
 meerdere
 meerderheid
 meeslepen # meesleept, meegesleept, mee sleepte
@@ -4098,8 +4124,10 @@ nalopen # naloopt, naliepen, nagelopen
 namiddag
 nardus - zie wbNardus
 naroepen # roept na, roepen na, riep na
+nat
 natie - natiën, naties
 natmaken # natmaakt, maak nat, maken nat, gemaakt nat
+natrappen # nagetrapt
 natuur
 natuurlijk - natuurlijke
 nauw - nauwe, nauwst
@@ -4174,6 +4202,7 @@ Niet-Mijn-volk
 niet-ommuurd - niet-ommuurde
 nietsvermoedend - nietsvermoedende
 nieuw - nieuwe
+nieuw verbond - nieuwe verbond
 nieuwe maan
 nieuwe naam
 nieuwemaan
@@ -4278,6 +4307,7 @@ omhoogheffen # omhoogheft, omhooggeheven, omhoog hef, omhoog heft, omhoog hief
 omhoogsteken # steek omhoog, steken omhoog
 omhoogtillen # omhoog tillen
 omhoogtrekken # trek omhoog, trekt omhoog, trok omhoog, trokken omhoog
+omhoogvliegen
 omkeer
 omkeer brengen - omkeer
 omkeren # omkeer, omkeerde, omkeerden, omgekeerd, keer om, keert om, keren om, keerde om, keerden om
@@ -4300,6 +4330,8 @@ omspannen # omspande
 omstandigheden
 omtrek
 omtrekkende beweging
+omvang
+omvangen - omving
 omverhalen # omvergehaald, omver halen, omver gehaald
 omverwerpen # omvergeworpen
 omwalling
@@ -4385,6 +4417,7 @@ ondertekenen - onderteken, ondertekende, ondertekend
 ondertekening
 ondertrouw
 ondertrouwd - ondertrouwde
+ondervinden - ondervindt, ondervond
 ondervinding
 ondervragen - ondervraag, ondervraagt, ondervroeg, ondervroegen, ondervraagd
 onderweg
@@ -4412,6 +4445,7 @@ onenigheid - onenigheden
 onervaren
 ongebaand - ongebaande
 ongebonden
+ongebroken
 ongedaan
 ongedierte
 ongeëerd
@@ -4703,6 +4737,7 @@ op menselijke wijze
 op wacht staan - op wacht
 op zoek naar - op zoek
 opbergen # opbergt, opgeborgen, op berg, op bergen, op borg
+opbeuren # op beurde
 opblazen # opgeblazen
 opbloeien # opgebloeid
 opborrelen
@@ -4744,12 +4779,14 @@ openstaan # open staat
 openzetten # opengezet, open zet
 opeten # opaten, opgegeten, op eet, op eten, op at, op aten
 opgaan # opgaat, opging, opgingen, opgegaan, ga op, gaat op, gaan op, ging op
+opgang
 opgelapt - opgelapte
 opgesteld staan # opgesteld stonden
 opgeven # opgeeft, opgegeven, op geef
 opgezweept - opgezweepte
 opgroeien # opgroeit, opgroeiden, opgegroeid, op groeit, op groeide
 ophalen # opgehaald, op haal, op haalt, op halen
+ophanden
 ophangen # ophingen, opgehangen, hangt op, hangen op, hing op, hingen op
 opheffen # ophef, opheft, ophief, ophieven, opgeheven, op hef, op heft, op heffen, op hief, op hieven
 opheffing
@@ -4829,6 +4866,7 @@ opsteken # opsteekt, opstak, stak op
 opstellen # opstelt, opstelde, opgesteld, stel op, stellen op, stelde op, stelden op
 opstijgen # opsteeg, opgestegen, op stijgt, op stijgen, op steeg, op stegen
 opstoken - opgestookt
+optekenen # opgetekend, op teken
 optillen # optilt, opgetild, op tilde, op tilden
 optreden # optreedt, opgetreden, op treden, op trad
 optrekken # optrekt, optrok, optrokken, opgetrokken, trek op, trekt op, trekken op, trok op, trokken op
@@ -4973,6 +5011,7 @@ overwinnen - overwin, overwint, overwon, overwonnen, overwinnend 
 overwinning - overwinningen
 overwinningsgeschreeuw
 overwinteren - overwinterd
+overzien # overzag
 overzijde
 paal - palen
 paar
@@ -5223,6 +5262,7 @@ radeloos - radeloze
 radeloosheid
 Rahab - zie wbRahab
 Raka - zie wbRaka
+raken - raakt, raakte, raakten, geraakt
 ram - rammen
 ramp - rampen
 rampspoed
@@ -5798,6 +5838,7 @@ sleuren - sleurt, sleurde, sleurden
 sleutel - sleutels
 slijk
 slijpen - slijp, slijpt, geslepen
+slijten
 slinger
 slingeraar - slingeraars
 slingeren - slinger, slingerde, geslingerd
@@ -5860,6 +5901,7 @@ snellen - snel, snelt, snelde, snelden
 sneller
 sneuvelen - sneuvelden, gesneuveld
 snijden - snijd, snijdt, sneed, sneden, gesneden
+snode
 snoeien - gesnoeid
 snoeimes - snoeimessen
 snoer - snoeren
@@ -6014,6 +6056,7 @@ stekje - stekjes
 stel
 stelen - steel, steelt, stal, stalen, gestolen
 stellen - stel, stelt, stelde, stelden, gesteld
+stellig
 stelligheid
 stelling
 stem - stemmen
@@ -6238,6 +6281,7 @@ teisteren - teisterde
 tekeer
 tekeergaan # tekeergingen, gaat tekeer, gaan tekeer, tekeer gegaan
 teken - tekens, tekenen
+tekenen - teken, getekend
 tekortdoen
 tekortkomen # tekortkomt, komt tekort
 tekortschiet
@@ -6452,10 +6496,12 @@ tol
 tolhuis
 tolk
 tollenaar - zie wbTollenaar
+tonen - toon, toont, toonde, toonden, getoond
 tong - tongen 
 tongval
 tooien - tooit, tooide, tooiden, getooid 
 toom - tomen
+toon
 toon
 toonbeeld
 toonbrood - zie wbToonbroden
@@ -6511,6 +6557,7 @@ treurend - treurende
 treurende - treurenden
 treurig - treurige
 trillen - trilden
+trillend
 triomferen - triomfeert, getriomfeerd
 troebel
 troep - troepen
@@ -6673,6 +6720,7 @@ uitoefenen # uitoefende, uitgeoefend, uit oefent
 uitplukken
 uitputten # uitgeput
 uitredding
+uitrichten
 uitroeien # uitroei, uitroeit, uitroeide, uitgeroeid, roei uit, roeit uit, roeien uit, roeide uit
 uitroepen # uitriep, uitriepen, uitgeroepen, roep uit, roept uit, roepen uit, riep uit, riepen uit
 uitrukken # uitgerukt, ruk uit, rukken uit, rukte uit, rukten uit, uit gerukt
@@ -6830,6 +6878,7 @@ vegen - veegt, veegde, geveegd
 veger
 veilig - veilige
 veiligheid
+veinzen - veinst, veinsden, geveinsd
 vel
 veld - velden
 veldgewas
@@ -6872,6 +6921,7 @@ verbeteren
 verbeurdverklaring
 verbidden
 verbijsteren - verbijster, verbijsterd
+verbinden - verbindt, verbonden
 verbinding - verbindingen
 verbindingsstuk - verbindingsstukken
 verbintenis
@@ -7359,6 +7409,7 @@ vinger (1,9 cm) - zie mlVinger
 vis - vissen
 visarend
 vishaak - vishaken
+visharpoen
 visioen - zie wbVisioen
 visje - visjes
 visser - vissers
@@ -7874,6 +7925,7 @@ wegblijven # wegblijf, weggebleven, blijf weg, blijft weg, blijven weg
 wegbrengen # breng weg, bracht weg, brachten weg
 wegdoen # wegdoet, wegdeed, weggedaan, doe weg, doet weg, doen weg, deed weg, deden weg
 wegdragen # wegdroegen, weggedragen, draag weg, draagt weg, dragen weg
+wegdrijven # wegdrijft, weggedreven, weg drijven, weg dreef, weg dreven
 wegen - weegt, woog, wogen, gewogen
 weggaan # wegga, weggaat, wegging, weggingen, weggegaan, ga weg, gaat weg, gaan weg, ging weg, gingen weg, weg gegaan
 weggaand - weggaande
@@ -7884,6 +7936,7 @@ weghalen # weggehaald, weg halen, weg haalde
 wegjagen # wegjaagt, weggejaagd, jaag weg,  joeg weg, joegen weg
 wegkwijnen # kwijn weg, kwijnen weg
 wegkwijnend - wegkwijnende
+wegleggen # weggelegd, weg legden
 wegleiden # wegleid, wegleidden, weggeleid, leid weg, leidt weg, leiden weg, leidde weg, leidden weg
 weglokken # weggelokt
 weglopen # wegloopt, wegliepen, weg loopt, weg lopen, weg liep, weg liepen
@@ -7908,6 +7961,7 @@ wegvliegen # wegvliegt, weggevlogen, vliegt weg, vliegen weg
 wegvloeien # wegvloeit, weggevloeid, weg vloeien, weg vloeiden
 wegvluchten # wegvlucht, wegvluchtte, weggevlucht, vlucht weg, vluchtte weg, vluchtten weg
 wegvoeren # wegvoert, wegvoerden, weggevoerd, weg voert, weg voeren, weg voerde, weg voerden
+wegwaaien # weggewaaid
 wegwaaiend - wegwaaiende
 wegwerpen # weggeworpen, werp weg, werpt weg, werpen weg, wierp weg, wierpen weg, weg geworpen
 wegwijzer - wegwijzers
@@ -7924,6 +7978,7 @@ weigeren - weiger, weigert, weigerde, weigerden, geweigerd
 weinig - weinige
 weinigen
 Wekenfeest - zie bfWekenfeest
+wekken - wekt, wekte, wekten, gewekt
 welbehaaglijk - welbehaaglijke
 welbehagen 
 welbeproefd
@@ -8304,6 +8359,7 @@ zilver - zilveren
 zilversmid
 zilverstuk - zie mmZilverstuk
 zilverwit
+zin
 zinderend - zinderende
 zingen - zing, zingt, zong, zongen, gezongen
 zingenot
@@ -8448,59 +8504,18 @@ zwijgend - zwijgende
 zwijggeld
 zwijn - zwijnen
 zwoegen - zwoegt, zwoegde, gezwoegd
-afstoten # af stoten, af stootte
-balk - balken
-balken - balkt
-beantwoorden - beantwoord, beantwoordde
-doorslikken # doorslikt, door slikken
-indrinken # indrinkt, in drinkt
-kalven - kalft
-kluit - kluiten
-loeien - loeit
-meer (wateroppervlak)
-omhoogvliegen
-ophanden
-ondervinden - ondervindt, ondervond
-ongebroken
-slijten
-stellig
-uitrichten
-eeuwig verbond - eeuwige verbond
-nieuw verbond - nieuwe verbond
-verbinden - verbindt, verbonden
-wegleggen # weggelegd, weg legden
-wegwaaien # weggewaaid
-wekken - wekt, wekte, wekten, gewekt
-aanhoren # aanhoort, aangehoord, aan horen, aan hoor, aan hoort, aan hoorde, aan hoorden
-aflezen # af lezen
-lezen - lees, leest, las, lazen, gelezen
-aftekenen # afgetekend, af tekent
-optekenen # opgetekend, op teken
-tekenen - teken, getekend
-beschroomd
-klaarzetten
-kletteren - klettert
-koraal
-manen
-masker
-nat
-trillend
-visharpoen
-wegdrijven # wegdrijft, weggedreven, weg drijven, weg dreef, weg dreven
-achterhalen
-beletten - belet, belette
-duiken - duikt
-inheems - inheemse
-natrappen # nagetrapt
-omvang
-omvangen - omving
-opbeuren # op beurde
-opgang
-overzien # overzag
-zin
-raken - raakt, raakte, raakten, geraakt
-snode
-aantonen # aan tonen, 
-toon
-tonen - toon, toont, toonde, toonden, getoond
-veinzen - veinst, veinsden, geveinsd
+aansnellen
+bedruipen
+gouddraad
+instortend - instortende
+ligging
+neigen - neig, neigt, neigde, geneigd
+omzwerving - omzwervingen
+overladen - overlaadt
+uitstallen
+val - vallen
+verkeerd - verkeerde
+verkeerde - verkeerden
+verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
+verslindend - verslindende
+zingend - zingende

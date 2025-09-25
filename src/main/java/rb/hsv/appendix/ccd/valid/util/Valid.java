@@ -374,6 +374,8 @@ public class Valid {
             isValid = ValidVellen.isValid(keyArg, arg, curFile, vs);
         } else if (isVerbinden(keyArg)) {
             isValid = ValidVerbinden.isValid(keyArg, curFile, vs);
+        } else if (isVerkeren(keyArg)) {
+            isValid = ValidVerkeren.isValid(keyArg, curFile, vs);
         } else if (isVerlichten(keyArg)) {
             isValid = ValidVerlichten.isValid(keyArg, arg, curFile, vs);
         } else if (isVerplichten(keyArg)) {
