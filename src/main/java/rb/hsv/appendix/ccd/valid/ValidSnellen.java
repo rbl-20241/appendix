@@ -4,12 +4,14 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.File;
 
+import static rb.hsv.appendix.ccd.valid.util.ValidUtil.IS_NOT_FOUND;
 import static rb.hsv.appendix.ccd.valid.util.ValidUtil.isValidVerse;
 
 public class ValidSnellen {
 
     public static boolean isValid(final @NotNull String keyArg, final File curFile, final String vs) {
         return switch (keyArg) {
+            case "aansnellen" -> IS_NOT_FOUND;
             case "snel" -> isSnel(curFile, vs);
             case "snelle" -> isSnelle(curFile, vs);
             case "toesnellen" -> isToesnellen(curFile, vs);

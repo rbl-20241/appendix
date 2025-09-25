@@ -2194,7 +2194,8 @@ public class ValidUtil {
     public static boolean isSnellen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;
 
-        var isTeCheckenWerkwoord = keyArg.equals("toesnellen");
+        var isTeCheckenWerkwoord = keyArg.equals("aansnellen")
+                || keyArg.equals("toesnellen");
 
         var isTeCheckenString = keyArg.equals("snellen")
                 || keyArg.equals("snel")

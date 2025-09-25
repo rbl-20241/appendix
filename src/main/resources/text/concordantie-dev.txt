@@ -1,4 +1,16 @@
-aantonen # aan tonen, 
-toon
-tonen - toon, toont, toonde, toonden, getoond
-veinzen - veinst, veinsden, geveinsd
+bedruipen - bedruip, bedruipt, bedroop, bedropen
+gouddraad - gouddraden
+instortend - instortende
+ligging
+neigen - neig, neigt, neigde, neigden, geneigd
+omzwerving - omzwervingen
+overladen - overlaad, overlaadt, overlaadde, overlaadden
+// stal - stallen
+// stallen - stal, stalt, stalde, stalden, gestald
+// uitstallen # uitstal, uitstalt, uitstalde, uitstalden, uitgestald, uit stallen, uit stal, uit stalt, uit stalde, uit stalden, uit gestald
+// val - vallen // bestaat al
+// verkeer
+// verkeerd - verkeerde
+// verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
+// verslindend - verslindende
+// zingend - zingende
