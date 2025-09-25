@@ -4,7 +4,6 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.File;
 
-import static rb.hsv.appendix.ccd.valid.util.ValidUtil.IS_TOO_MUCH;
 import static rb.hsv.appendix.ccd.valid.util.ValidUtil.isValidVerse;
 
 public class ValidHoren {
@@ -12,7 +11,7 @@ public class ValidHoren {
     public static boolean isValid(final @NotNull String keyArg, final File curFile, final String vs) {
         return switch (keyArg) {
             case "aanhoren" -> isAanhoren(curFile, vs);
-            case "horen" -> IS_TOO_MUCH;
+            case "horen" -> isHoren(curFile, vs);
             default -> true;
         };
     }
@@ -31,5 +30,11 @@ public class ValidHoren {
                 || isValidVerse(curFile, vs, "Isa-62.html#vs11")
                 || isValidVerse(curFile, vs, "Acts-22.html#vs22");
     } // isAanhoren
+
+    public static boolean isHoren(final File curFile, final String vs) {
+        return !isAanhoren(curFile, vs);
+    } // isHoren
+
+
 
 }
