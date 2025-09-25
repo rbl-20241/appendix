@@ -2225,6 +2225,14 @@ public class ValidUtil {
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
     } // isSpannen
 
+    public static boolean isStal(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("uitstallen");
+        var isTeCheckenString = keyArg.equals("stelen")
+                || keyArg.equals("stal");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isStal
+
     public static boolean isStammen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isTeCheckenWerkwoord = keyArg.equals("afstammen");
         var isTeCheckenString = keyArg.equals("halve stam")

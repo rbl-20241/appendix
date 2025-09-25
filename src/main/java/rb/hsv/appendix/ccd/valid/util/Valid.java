@@ -318,6 +318,8 @@ public class Valid {
             isValid = ValidSpringen.isValid(keyArg, curFile, vs);
         } else if (isStaan(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidStaan.isValid(keyArg, arg, curFile, vs);
+        } else if (isStal(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidStal.isValid(keyArg, arg, curFile, vs);
         } else if (isStammen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidStammen.isValid(keyArg, curFile, vs);
         } else if (isSteken(keyArg, isSamengesteldWerkwoord)) {
