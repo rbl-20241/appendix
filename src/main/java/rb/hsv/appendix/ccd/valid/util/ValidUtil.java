@@ -655,7 +655,8 @@ public class ValidUtil {
     }
 
     public static boolean isDrinken(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
-        var isTeCheckenWerkwoord = keyArg.equals("indrinken");
+        var isTeCheckenWerkwoord = keyArg.equals("indrinken")
+                || keyArg.equals("opdrinken");
         var isTeCheckenString = keyArg.equals("drinken")
                 || keyArg.equals("dronken");
 

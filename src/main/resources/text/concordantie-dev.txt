@@ -1,5 +1,9 @@
-verkeerd - verkeerde
-verkeerde - verkeerden
-verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
-verslindend - verslindende
-zingend - zingende
+opdrinken # opgedronken
+uitglijden # uitglijd, uitglijdt, uitgleed, uitgleden, uitgegleden, uit glijden, uit glijd, uit glijdt, uit gleed, uit gleden, uit gegleden
+uitpersen # uitpers, uitperst, uitperste, uitpersten, uitgeperst, uit persen, uit pers, uit perst, uit perste, uit persten, uit geperst
+uitpuilen # uitpuil, uitpuilt, uitpuilde, uitpuilden, uitgepuild, uit puilen, uit puil, uit puilt, uit puilde, uit puilden, uit gepuild
+uitschieten # uitschiet, uitschoot, uitschoten, uitgeschoten, uit schieten, uit schiet, uit schoot, uit schoten, uit geschoten
+uitteren # uitteer, uitteert. uitteerde, uitteerden, uitgeteerd, uit teren, uit teer, uit teert. uit teerde, uit teerden, uit geteerd
+uitstromen # uitstroom, uitstroomt, uitstroomde, uitstroomden, uitgestroomd, uit stromen, uit stroom, uit stroomt, uit stroomde, uit stroomden, uit gestroomd
+uitvloeien # uitvloei, uitvloeit, uitvloeide, uitvloeiden, uitgevloeid, uit vloeien, uit vloei, uit vloeit, uit vloeide, uit vloeiden, uit gevloeid
+vervagen - vervaag, vervaagt, vervaagde, vervaagden, vervaagd

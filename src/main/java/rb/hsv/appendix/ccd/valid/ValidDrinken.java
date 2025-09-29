@@ -4,14 +4,16 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.File;
 
+import static rb.hsv.appendix.ccd.valid.util.ValidUtil.IS_NOT_FOUND;
 import static rb.hsv.appendix.ccd.valid.util.ValidUtil.isValidVerse;
 
 public class ValidDrinken {
 
     public static boolean isValid(final @NotNull String keyArg, final File curFile, final String vs) {
         return switch (keyArg) {
-            case "indrinken" -> isIndrinken(curFile, vs);
             case "dronken" -> isDronken(curFile, vs);
+            case "indrinken" -> isIndrinken(curFile, vs);
+            case "opdrinken" -> IS_NOT_FOUND;
             case "drinken" -> isDrinken(curFile, vs);
             default -> true;
         };
