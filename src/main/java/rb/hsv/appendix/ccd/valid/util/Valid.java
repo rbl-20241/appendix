@@ -242,6 +242,8 @@ public class Valid {
             isValid = ValidOntzetten.isValid(keyArg, curFile, vs);
         } else if (isPakken(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidPakken.isValid(keyArg, curFile, vs);
+        } else if (isPersen(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidPersen.isValid(keyArg, curFile, vs);
         } else if (isPlaatsen(keyArg)) {
             isValid = ValidPlaatsen.isValid(keyArg, arg, curFile, vs);
         } else if (isPlanten(keyArg, arg, isSamengesteldWerkwoord)) {

@@ -661,7 +661,7 @@ public class ValidUtil {
                 || keyArg.equals("dronken");
 
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
-    } // isBarsten
+    } // isDrinken
 
     public static boolean isDwalende(final @NotNull String arg) {
         return arg.equals("dwalende");
@@ -1744,6 +1744,15 @@ public class ValidUtil {
 
         return isValid;
     } // isPakken
+
+    public static boolean isPersen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("afpersen")
+                || keyArg.equals("uitpersen");
+        var isTeCheckenString = keyArg.equals("pers")
+                || keyArg.equals("persen");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isPersen
 
     public static boolean isPlaatsen(final @NotNull String keyArg) {
         return keyArg.equals("plaatsen");
