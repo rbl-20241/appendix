@@ -342,6 +342,8 @@ public class Valid {
             isValid = ValidStrooien.isValid(keyArg, curFile, vs);
         } else if (isSturen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidSturen.isValid(keyArg, curFile, vs);
+        } else if (isTasten(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidTasten.isValid(keyArg, curFile, vs);
         } else if (isTekenen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidTekenen.isValid(keyArg, curFile, vs);
         } else if (isTeSchande(keyArg)) {

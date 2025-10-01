@@ -1,8 +1,6 @@
-dolen - dool, doolt, doolde, doolden, gedoold
-ronddolen # ronddool, ronddoolt, ronddoolde, ronddoolden, rondgedoold, rond dolen, rond dool, rond doolt, rond doolde, rond doolden, rond gedoold
-samenwonen # samenwoon, samenwoont, samenwoonde, samenwoonden, samengewoond, samen wonen, samen woon, samen woont, samen woonde, samen woonden, samen gewoond
-schiften - schift, schiftte, schiftten, geschift
-tasten - tast, tastte, tastten, getast
+aantasten # aangetast, aan tastte
+rondtasten # rondtast, rond tasten
+tasten - tastte, getast
 terugvallen # terugval, terugvalt, terugviel, terugvielen, teruggevallen, terug vallen, terug val, terug valt, terug viel, terug vielen, terug gevallen
 toegewijd
 uitdelgen # uitdelg, uitdelgt, uitdelgde, uitdelgden, uitgedelgd, uit delgen, uit delg, uit delgt, uit delgde, uit delgden, uit gedelgd

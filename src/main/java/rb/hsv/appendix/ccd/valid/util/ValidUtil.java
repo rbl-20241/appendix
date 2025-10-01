@@ -1863,7 +1863,7 @@ public class ValidUtil {
         var isTeCheckenString = keyArg.equals("reiken");
 
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
-    } // isRoven
+    } // isReiken
 
     public static boolean isRichten(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;
@@ -2524,6 +2524,14 @@ public class ValidUtil {
 
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
     } // isSturen
+
+    public static boolean isTasten(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("aantasten")
+                || keyArg.equals("rondtasten");
+        var isTeCheckenString = keyArg.equals("tasten");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isTasten
 
     public static boolean isTekenen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isTeCheckenWerkwoord = keyArg.equals("aftekenen")
