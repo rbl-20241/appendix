@@ -1858,6 +1858,13 @@ public class ValidUtil {
         return arg.equals("rechter-");
     } // isRechter
 
+    public static boolean isReiken(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("aanreiken");
+        var isTeCheckenString = keyArg.equals("reiken");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isRoven
+
     public static boolean isRichten(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;
 

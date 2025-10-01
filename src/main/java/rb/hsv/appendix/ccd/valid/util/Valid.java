@@ -262,6 +262,8 @@ public class Valid {
             isValid = ValidRapen.isValid(keyArg, curFile, vs);
         } else if (isRechter(arg)) {
             isValid = ValidRechter.isValid(keyArg, curFile, vs);
+        } else if (isReiken(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidReiken.isValid(keyArg, curFile, vs);
         } else if (isRichten(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidRichten.isValid(keyArg, arg, curFile, vs);
         } else if (isRijden(keyArg, isSamengesteldWerkwoord)) {
