@@ -1,13 +1,2 @@
-aantasten # aangetast, aan tastte
-rondtasten # rondtast, rond tasten
-tasten - tastte, getast
-terugvallen # terugval, terugvalt, terugviel, terugvielen, teruggevallen, terug vallen, terug val, terug valt, terug viel, terug vielen, terug gevallen
-toegewijd
-uitdelgen # uitdelg, uitdelgt, uitdelgde, uitdelgden, uitgedelgd, uit delgen, uit delg, uit delgt, uit delgde, uit delgden, uit gedelgd
-uitdossen # uitdos, uitdost, uitdoste, uitdosten, uitgedost, uit dossen, uit dos, uit dost, uit doste, uit dosten, uit gedost
-van jongs af
-vermageren - vermager, vermagert, vermagerde, vermagerden, vermagerd
-verzenden - verzend, verzendt, verzond, verzonden
-vrijspreken # vrijspreek, vrijspreekt, vrijsprak, vrijspraken, vrijgesproken, vrij spreken, vrij spreek, vrij spreekt, vrij sprak, vrij spraken, vrij gesproken
-wanen - waan, waant, waande, waanden, gewaand
-weerspiegelen - weerspiegel, weerspiegelt, weerspiegelde, weerspiegelden, weerspiegeld
+wanen - waant
+weerspiegelen - weerspiegelt

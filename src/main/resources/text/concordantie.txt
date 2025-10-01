@@ -69,6 +69,7 @@ aanschouwen # aanschouw, aanschouwt, aanschouwde, aanschouwd
 aanschouwing
 aanslag - aanslagen
 aansluiten # aangesloten, aan sluiten, aan sloten
+aansnellen
 aanspannen # aan spant
 aansporen # aanspoort, aanspoorde, aangespoord, spoor aan, spoort aan, sporen aan, spoorde aan, spoorden aan
 aansporing - aansporingen
@@ -81,7 +82,6 @@ aanstoot
 aanstoot geven # aanstoot geef, aanstoot geeft
 aanstoots
 aantal
-aantasten # tastte aan
 aantocht
 aantonen # aan tonen, 
 aantreden # aan trad
@@ -240,6 +240,7 @@ afmatten # afgemat, af mat, af matten
 afmeten # afgemeten, af meten, af mat
 afmeting - afmetingen
 afnemen # afneemt, afgenomen, neem af, neemt af, nemen af, nam af, namen af
+afpersen # afpersen, afgeperst, af persen, af pers
 afpersing  - afpersingen
 afplukken # afgeplukt, af plukte
 afranselen # afgeranseld
@@ -525,6 +526,7 @@ bedroefd
 bedroefde - bedroefden
 bedroeven - bedroef, bedroeft, bedroefde, bedroefden, bedroefd
 bedrog
+bedruipen
 beducht
 bedwang
 bedwelmend - bedwelmende
@@ -669,6 +671,8 @@ beoordelen - beoordeel, beoordeelt, beoordeeld
 bepaald - bepaalde
 bepalen - bepaal, bepaalt, bepaalde, bepaalden, bepaald
 bepaling - bepalingen
+beperken - beperkten
+beperkt
 beplanten - beplant, beplantte
 bepleisteren - bepleisterden, bepleisterd
 beproefdheid
@@ -794,6 +798,7 @@ betekenen - betekent, betekende
 betekenis
 beter - betere
 beterschap
+beteugelen
 betoog
 betoveren - betoverd
 betrappen - betrapt
@@ -1863,7 +1868,6 @@ funderen - gefundeerd
 fundering
 gaaf
 Gad - zie gdGad
-gade slaan - gade
 gal
 galbanum - zie wbGalbanum
 galerij - galerijen
@@ -2365,6 +2369,7 @@ gooien - gooi, gooide, gooiden, gegooid
 gordel - gordels
 gordijn - gordijnen
 goud
+gouddraad
 gouden
 goudstaaf
 goudstofje - goudstofjes
@@ -2984,6 +2989,7 @@ instellen # ingesteld, stel in, stelde in, stelden in
 instelling
 instemming
 instorten # ingestort, in stortte, in stortten
+instortend - instortende
 instrument - instrumenten
 intocht
 intrek
@@ -3654,6 +3660,7 @@ lier
 lieveling - lievelingen
 lievelingskind
 lievelingsplant
+ligging
 ligmat - ligmatten
 lijdelijk
 lijden - lijd, lijdt, leed, leden, geleden
@@ -4176,6 +4183,7 @@ negende dag - negende
 negende maand (Chisleu) # chisleu
 negende uur
 Nehustan
+neigen - neig, neigt, neigde, geneigd
 neiging
 nek - nekken
 Nergal - zie gdNergal
@@ -4337,6 +4345,7 @@ omwalling
 omwikkelen # omwikkel, omwikkelde, om wikkelen, om wikkelde
 omwille
 omzien # omziet, omzag, omgezien, om zie, om ziet, om zien, om zag
+omzwerving - omzwervingen
 onaangenaam
 onaangeroerd
 onaanzienlijk - onaanzienlijke
@@ -4750,6 +4759,7 @@ opdagen
 opdracht - opdrachten
 opdracht geven # opdracht geef, opdracht gaf, opdracht gegeven, opdrachten geven, opdrachten gegeven
 opdragen # opgedragen, draag op, droeg op, droegen op
+opdrinken # opgedronken
 opdrogen # opgedroogd, drogen op, droogde op
 opdwarrelend
 opeenhoping
@@ -4944,6 +4954,7 @@ overhouden # overhoudt, overhield, overgehouden, hield over
 overkant
 overkleden - overkleed
 overkomen # overkomt, overkwam, overkwamen, over kom, over komen, over kwamen
+overladen - overlaadt
 overlaten # overlaat, overliet, overgelaten, laat over, liet over, lieten over
 overleg
 overleg voeren # overleg voerde
@@ -5069,6 +5080,8 @@ penninkje - zie mmPenninkje
 periode - perioden
 perk
 perkament - perkamenten
+pers
+persen - perst
 perskuip - perskuipen
 persoon - personen
 persoonlijk - persoonlijke
@@ -5465,7 +5478,6 @@ rondom
 rondreizen # rondreisde
 rondspeuren
 rondsturen # rond stuurden
-rondtasten # rondtast, tasten rond
 rondte
 rondtrekken # rondtrok, rondgetrokken, trek rond, trekt rond, trekken rond, trok rond, trokken rond
 rondtrekkend - rondtrekkende
@@ -5927,7 +5939,7 @@ specerij - specerijen
 speciaal
 speeksel
 speer - speren
-spelen - speel, speelt, gespeeld
+spelen - speel, speelt, gespeeld, spelend
 spelregel - spelregels
 spelt
 sperren - sper, spert, sperden
@@ -6683,6 +6695,7 @@ uitgestalde
 uitgesteld - uitgestelde
 uitgestrekt - uitgestrekte
 uitgieten # uitgiet, uitgoot, uitgegoten, giet uit, gieten uit, goot uit, goten uit
+uitglijden # uitgegleden
 uithakken # uitgehakt, uit hakt, uit hakken, uit hakte
 uitheems - uitheemse
 uithoek - uithoeken
@@ -6715,7 +6728,9 @@ uitmuntend
 uitnemend - uitnemende
 uitnodigen # uitnodigt, uitnodigde, uitgenodigd, nodig uit, nodigde uit, nodigden uit
 uitoefenen # uitoefende, uitgeoefend, uit oefent
+uitpersen # uitgeperst, uit persen, uit perst, uit perste
 uitplukken
+uitpuilen # uit puilen
 uitputten # uitgeput
 uitredding
 uitrichten
@@ -6725,6 +6740,7 @@ uitrukken # uitgerukt, ruk uit, rukken uit, rukte uit, rukten uit, uit gerukt
 uitrusten # uitgerust, uit rust, uit rusten
 uitrusting
 uitschelden # uitgescholden, scheldt uit, scholden uit
+uitschieten # uitgeschoten
 uitschreeuwen # uitschreeuw, uitschreeuwt, uitschreeuwden, schreeuw uit, schreeuwt uit, schreeuwen uit, schreeuwde uit, schreeuwden uit
 uitschudden # uitgeschud, uit schudde
 uitslag
@@ -6737,6 +6753,7 @@ uitspreiden # uitspreidt, uitspreidde, uitspreidden, uitgespreid, spreid uit, sp
 uitspreken # uitspreek, uitsprak, uitspraken, uitgesproken, uit spreek, uit spreekt, uit spreken, uit sprak, uit spraken
 uitspruiten # uitspruit
 uitspuwen # uitgespuwd, spuw uit, spuwt uit, spuwen uit, spuwde uit
+uitstallen
 uitstek
 uitsteken # uitsteek, uitsteekt, uitstak, uitgestoken, steek uit, steekt uit, steken uit, stak uit, staken uit
 uitstekend - uitstekende
@@ -6750,6 +6767,7 @@ uitstrekkend
 uitstrooien # uitgestrooid, uit strooi, uit strooit, uit strooien, uit strooide
 uitstulping
 uitsturen # uitstuur, uitstuurde, uitgestuurd, uit stuurde
+uitteren # uitgeteerd
 uittocht
 uittrekken # uittrekt, uittrok, uittrokken, uitgetrokken, trek uit, trekt uit, trekken uit, trok uit, trokken uit, getrokken uit
 uitvaagsel
@@ -6801,6 +6819,7 @@ vaklieden
 vakman
 vakmanschap
 vakwerk
+val - vallen
 valk
 valkuil
 vallei - valleien
@@ -7052,11 +7071,14 @@ verijdelen - verijdelt, verijdeld
 verjaardag
 verjagen - verjaagd
 verkeerd - verkeerde
+verkeerd - verkeerde
+verkeerde - verkeerden
 verkeerde van hart - verkeerden van hart
 verkeerdheid
 verkeerds
 verkennen - verken, verkenden, verkend
 verkenner - verkenners
+verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
 verkieslijker
 verkiezen - verkies, verkiest, verkoos, verkozen
 verkiezing
@@ -7217,6 +7239,7 @@ verslagene - verslagenen
 verslappen - verslapte, verslapten
 verslijten - versleten
 verslinden - verslind, verslindt, verslond, verslonden
+verslindend - verslindende
 verslinding
 versmachten - versmacht, versmachtten
 versmaden - versmaad, versmaadt, versmaadde, versmaadden, versmaad
@@ -7276,6 +7299,7 @@ vertrouwen (werkwoord) - vertrouw, vertrouwt, vertrouwde, vertrouwden, vertrouwd
 vertrouwen (zelfstandig naamwoord)
 vertwijfeld
 vervaardigen - vervaardigt, vervaardigde, vervaardigd
+vervagen - vervaagt
 vervallen - verval, vervalt
 vervalsen
 vervangen
@@ -8360,6 +8384,7 @@ zilverwit
 zin
 zinderend - zinderende
 zingen - zing, zingt, zong, zongen, gezongen
+zingend - zingende
 zingenot
 zinken - zonk, zonken, gezonken
 zinloos - zinloze
@@ -8502,31 +8527,36 @@ zwijgend - zwijgende
 zwijggeld
 zwijn - zwijnen
 zwoegen - zwoegt, zwoegde, gezwoegd
-aansnellen
-bedruipen
-gouddraad
-instortend - instortende
-ligging
-neigen - neig, neigt, neigde, geneigd
-omzwerving - omzwervingen
-overladen - overlaadt
-uitstallen
-val - vallen
-verkeerd - verkeerde
-verkeerde - verkeerden
-verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
-verslindend - verslindende
-zingend - zingende
-beperkt
-beperken - beperkten
-beteugelen
-opdrinken # opgedronken
-uitglijden # uitgegleden
-pers
-persen - perst
-afpersen # afpersen, afgeperst, af persen, af pers
-uitpersen # uitgeperst, uit persen, uit perst, uit perste
-uitpuilen # uit puilen
-uitschieten # uitgeschoten
-uitteren # uitgeteerd
-vervagen - vervaagt
+aardrijk
+bespieden
+bestendig
+bezieling
+bezwaard
+blootgeven
+cirkel
+gadeslaan # gadeslaat, gade slaan, gade sloeg
+gestadig - gestadige
+hoeveel te meer
+jagend - jagende
+nadenken # nadacht, nagedacht, na denk
+neerhangen
+ongevormd
+aanreiken # aan reikte, aan reikten
+reiken - reikt, reikte, reikten, gereikt
+dolen
+ronddolen # rond dool
+samenwonen # samen woon
+schiften - schift
+aantasten # aangetast, aan tastte
+rondtasten # rondtast, rond tasten
+tasten - tastte, getast
+terugvallen # terugvalt
+toegewijd
+uitdelgen # uitdelgt, uitgedelgd, uit delg
+uitdossen # uitgedost
+van jongs af
+vermageren - vermagerd
+verzenden - verzendt, verzond, verzonden
+vrijspreken # vrijspreekt
+wanen - waant
+weerspiegelen - weerspiegelt
