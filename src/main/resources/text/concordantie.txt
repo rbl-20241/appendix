@@ -240,7 +240,6 @@ afmatten # afgemat, af mat, af matten
 afmeten # afgemeten, af meten, af mat
 afmeting - afmetingen
 afnemen # afneemt, afgenomen, neem af, neemt af, nemen af, nam af, namen af
-afpersen # afgeperst, pers af, persen af
 afpersing  - afpersingen
 afplukken # afgeplukt, af plukte
 afranselen # afgeranseld
@@ -2727,7 +2726,7 @@ honderdvierenveertigduizend
 honderdvijftig dagen
 honderdvoudig - honderdvoudige
 hondje - hondjes
-honen - hoon, hoont, hoonde, hoonden, gehoond
+honen - hoon, hoont, hoonde, hoonden, gehoond, honend
 honger
 hongeren
 hongerig
@@ -4118,7 +4117,7 @@ nakijken # nakeken, na keken
 nakomen # nakomt,nagekomen, kom na, komen na
 nalaten - nalaat, nagelaten, laat na
 nalatigheid
-naleven # naleef, na leven
+naleven # na leven
 nalezing
 nalopen # naloopt, naliepen, nagelopen
 namiddag
@@ -5026,7 +5025,7 @@ pachter - pachters
 pad - paden
 pak - pakken
 pakken - pak, pakt, pakte, pakten, gepakt
-pal staan # pal sta
+pal staan # dummy
 paleis - paleizen
 palmboom - palmbomen
 Palmstad
@@ -5070,7 +5069,6 @@ penninkje - zie mmPenninkje
 periode - perioden
 perk
 perkament - perkamenten
-persen - pers, perst, perste
 perskuip - perskuipen
 persoon - personen
 persoonlijk - persoonlijke
@@ -8519,3 +8517,16 @@ verkeerde - verkeerden
 verkeren - verkeer, verkeert, verkeerde, verkeerden, verkeerd
 verslindend - verslindende
 zingend - zingende
+beperkt
+beperken - beperkten
+beteugelen
+opdrinken # opgedronken
+uitglijden # uitgegleden
+pers
+persen - perst
+afpersen # afpersen, afgeperst, af persen, af pers
+uitpersen # uitgeperst, uit persen, uit perst, uit perste
+uitpuilen # uit puilen
+uitschieten # uitgeschoten
+uitteren # uitgeteerd
+vervagen - vervaagt

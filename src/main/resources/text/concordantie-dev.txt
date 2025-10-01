@@ -1,6 +1,18 @@
-uitpuilen # uit puilen
-// uitschieten # uitschiet, uitschoot, uitschoten, uitgeschoten, uit schieten, uit schiet, uit schoot, uit schoten, uit geschoten
-// uitteren # uitteer, uitteert. uitteerde, uitteerden, uitgeteerd, uit teren, uit teer, uit teert. uit teerde, uit teerden, uit geteerd
-// uitstromen # uitstroom, uitstroomt, uitstroomde, uitstroomden, uitgestroomd, uit stromen, uit stroom, uit stroomt, uit stroomde, uit stroomden, uit gestroomd
-// uitvloeien # uitvloei, uitvloeit, uitvloeide, uitvloeiden, uitgevloeid, uit vloeien, uit vloei, uit vloeit, uit vloeide, uit vloeiden, uit gevloeid
-// vervagen - vervaag, vervaagt, vervaagde, vervaagden, vervaagd
+nadenken # nadacht, nagedacht, na denk
+neerhangen # neerhang, neerhangt, neerhing, neerhingen, neergehangen, neer hangen, neer hang, neer hangt, neer hing, neer hingen, neer gehangen
+ongevormd - ongevormde
+reiken - reik, reikt, reikte, reikten, gereikt
+ronddolen # ronddool, ronddoolt, ronddoolde, ronddoolden, rondgedoold, rond dolen, rond dool, rond doolt, rond doolde, rond doolden, rond gedoold
+samenwonen # samenwoon, samenwoont, samenwoonde, samenwoonden, samengewoond, samen wonen, samen woon, samen woont, samen woonde, samen woonden, samen gewoond
+schiften - schift, schiftte, schiftten, geschift
+tasten - tast, tastte, tastten, getast
+terugvallen # terugval, terugvalt, terugviel, terugvielen, teruggevallen, terug vallen, terug val, terug valt, terug viel, terug vielen, terug gevallen
+toegewijd
+uitdelgen # uitdelg, uitdelgt, uitdelgde, uitdelgden, uitgedelgd, uit delgen, uit delg, uit delgt, uit delgde, uit delgden, uit gedelgd
+uitdossen # uitdos, uitdost, uitdoste, uitdosten, uitgedost, uit dossen, uit dos, uit dost, uit doste, uit dosten, uit gedost
+van jongs af
+vermageren - vermager, vermagert, vermagerde, vermagerden, vermagerd
+verzenden - verzend, verzendt, verzond, verzonden
+vrijspreken # vrijspreek, vrijspreekt, vrijsprak, vrijspraken, vrijgesproken, vrij spreken, vrij spreek, vrij spreekt, vrij sprak, vrij spraken, vrij gesproken
+wanen - waan, waant, waande, waanden, gewaand
+weerspiegelen - weerspiegel, weerspiegelt, weerspiegelde, weerspiegelden, weerspiegeld

@@ -253,7 +253,7 @@ public class ValidWijzen {
                 || isValidVerse(curFile, vs, "Prov-13.html#vs14", 20)
                 || isValidVerse(curFile, vs, "Prov-14.html#vs3", 16, 24)
                 || isValidVerse(curFile, vs, "Prov-15.html#vs2", 7, 12, 20, 31)
-                || isValidVerse(curFile, vs, "Prov-16.html#vs21, 23")
+                || isValidVerse(curFile, vs, "Prov-16.html#vs21", 23)
                 || isValidVerse(curFile, vs, "Prov-18.html#vs15")
                 || isValidVerse(curFile, vs, "Prov-21.html#vs11", 20, 22)
                 || isValidVerse(curFile, vs, "Prov-22.html#vs17")

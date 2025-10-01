@@ -15,7 +15,7 @@ public class ValidSlaan {
             case "alarm slaan" -> isAlarmSlaan(curFile, vs);
             case "bres slaan" -> isBresSlaan(curFile, vs);
             case "doodslaan" -> isDoodslaan(curFile, vs);
-            case "gade slaan" -> isGadeSlaan(curFile, vs, arg);
+            case "gadeslaan" -> isGadeslaan(curFile, vs);
             case "hand slaan aan" -> isHandSlaanAan(curFile, vs, arg);
             case "in stukken slaan" -> isInStukkenSlaan(curFile, vs, arg);
             case "kamp opslaan" -> isKampOpslaan(curFile, vs);
@@ -71,10 +71,7 @@ public class ValidSlaan {
                 || isValidVerse(curFile, vs, "1John-3.html#vs12");
     } // isDoodslaan
 
-    public static boolean isGadeSlaan(final File curFile, final String vs, final @NotNull String arg) {
-        if (arg.equals("gade slaan")) {
-            return false;
-        }
+    public static boolean isGadeslaan(final File curFile, final String vs) {
         return isValidVerse(curFile, vs, "Gen-24.html#vs21")
                 || isValidVerse(curFile, vs, "Prov-15.html#vs3");
     } // isGadeSlaan
@@ -312,7 +309,7 @@ public class ValidSlaan {
                 && !isAlarmSlaan(curFile, vs)
                 && !isBresSlaan(curFile, vs)
                 && !isDoodslaan(curFile, vs)
-                && !isGadeSlaan(curFile, vs, arg)
+                && !isGadeslaan(curFile, vs)
                 && !isHandSlaanAan(curFile, vs, arg)
                 && !isInStukkenSlaan(curFile, vs, arg)
                 && !isKampOpslaan(curFile, vs)

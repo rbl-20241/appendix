@@ -2116,6 +2116,7 @@ public class ValidUtil {
                 || keyArg.equals("alarm slaan")
                 || keyArg.equals("bres slaan")
                 || keyArg.equals("doodslaan")
+                || keyArg.equals("gadeslaan")
                 || keyArg.equals("hand slaan aan")
                 || keyArg.equals("kamp opslaan")
                 || keyArg.equals("losslaan")
@@ -2128,8 +2129,7 @@ public class ValidUtil {
                 || keyArg.equals("stukslaan")
                 || keyArg.equals("toeslaan");
 
-        var isTeCheckenString = keyArg.equals("gade slaan")
-                || keyArg.equals("in stukken slaan")
+        var isTeCheckenString = keyArg.equals("in stukken slaan")
                 || keyArg.equals("met de ban slaan");
 
         if (isSamengesteldWerkwoord) {

@@ -214,7 +214,7 @@ public class ValidArm {
                 || isValidVerse(curFile, vs, "Ps-140.html#vs13")
                 || isValidVerse(curFile, vs, "Prov-10.html#vs15")
                 || isValidVerse(curFile, vs, "Prov-13.html#vs8")
-                || isValidVerse(curFile, vs, "Prov-13.html#vs233")
+                || isValidVerse(curFile, vs, "Prov-13.html#vs23")
                 || isValidVerse(curFile, vs, "Prov-14.html#vs20")
                 || isValidVerse(curFile, vs, "Prov-14.html#vs31")
                 || isValidVerse(curFile, vs, "Prov-17.html#vs5")
