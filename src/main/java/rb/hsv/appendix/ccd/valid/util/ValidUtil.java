@@ -513,7 +513,8 @@ public class ValidUtil {
     } // isDekken
 
     public static boolean isDenken(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
-        var isTeCheckenWerkwoord = keyArg.equals("uitdenken");
+        var isTeCheckenWerkwoord = keyArg.equals("nadenken")
+                || keyArg.equals("uitdenken");
 
         var isTeCheckenString = keyArg.equals("denken");
 
