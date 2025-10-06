@@ -442,7 +442,7 @@ baan - banen
 baard - baarden
 baarmoeder - baarmoeders
 baarstoel
-baden - baadt, baadde, gebaad
+baden - baadt, baadde, gebaad, badend
 badwater
 bagage
 bakken - bak, bakt, bakte, bakten, gebakken
@@ -5943,7 +5943,7 @@ spelen - speel, speelt, gespeeld, spelend
 spelregel - spelregels
 spelt
 sperren - sper, spert, sperden
-speuren - speurt, gespeurd
+speuren - speurt, gespeurd, speurend
 spiegel - spiegels
 spiegelglad - spiegelgladde
 spier - spieren
@@ -8560,3 +8560,22 @@ verzenden - verzendt, verzond, verzonden
 vrijspreken # vrijspreekt
 wanen - waant
 weerspiegelen - weerspiegelt
+aankloppen # aanklopte, aan klopte
+bezeren - bezeerd
+blank
+dorsen - dors, dorst, dorste, gedorst
+dorst
+dorsten - dorst
+ineenzakken # ineen zakt
+keur
+laagte
+oliehouder
+openspringen # opengesprongen
+opleveren # oplevert, opgeleverd
+pasgeschoren
+tegenspoed
+terugvinden # teruggevonden
+vergaren - vergaarde, vergaard
+vergroten - vergroot
+vorstendochter
+vuilmaken
