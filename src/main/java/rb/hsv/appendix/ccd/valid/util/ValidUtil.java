@@ -603,6 +603,12 @@ public class ValidUtil {
         return isValid;
     } // isDoen
 
+    public static boolean isDorst(final @NotNull String keyArg) {
+        return keyArg.equals("dorsen")
+                || keyArg.equals("dorsten")
+                || keyArg.equals("dorst");
+    }
+
     public static boolean isDragen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isValid = false;
 

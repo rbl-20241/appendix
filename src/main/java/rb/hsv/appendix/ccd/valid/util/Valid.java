@@ -96,6 +96,8 @@ public class Valid {
             isValid = ValidDoen.isValid(keyArg, arg, curFile, vs);
         } else if (isDoden(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidDoden.isValid(keyArg, arg, curFile, vs);
+        } else if (isDorst(keyArg)) {
+            isValid = ValidDorst.isValid(keyArg, curFile, vs);
         } else if (isDragen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidDragen.isValid(keyArg, curFile, vs);
         } else if (isDrijven(keyArg, isSamengesteldWerkwoord)) {
