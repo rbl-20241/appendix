@@ -4,6 +4,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.File;
 
+import static rb.hsv.appendix.ccd.valid.util.ValidUtil.IS_NOT_FOUND;
 import static rb.hsv.appendix.ccd.valid.util.ValidUtil.isValidVerse;
 
 public class ValidVinden {
@@ -15,6 +16,7 @@ public class ValidVinden {
             case "plaatsvinden" -> isPlaatsvinden(curFile, vs);
             case "rust vinden" -> isRustVinden(curFile, vs);
             case "schuld vinden" -> isSchuldVinden(curFile, vs);
+            case "terugvinden" -> IS_NOT_FOUND;
             case "troost vinden" -> isTroostVinden(curFile, vs);
             case "vreugde vinden" -> isVreugdeVinden(curFile, vs);
             case "vrijmoedigheid vinden" -> isVrijmoedigheidVinden(curFile, vs);

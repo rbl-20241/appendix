@@ -1,7 +1,4 @@
-pasgeschoren
-tegenspoed
-terugvinden # terugvind, terugvindt, terugvond, terugvonden, teruggevonden, terug vinden, terug vind, terug vindt, terug vond, terug vonden, terug gevonden
-vergaren - vergaar, vergaart, vergaarde, vergaarden, vergaard
+vergaren - vergaarde, vergaard
 vergroten - vergroot, vergrootte, vergrootten
 vorstendochter - vorstendochters
 vuilmaken # vuilmaak, vuilmaakt, vuilmaakte, vuilmaakten, vuilgemaakt, vuil maken, vuil maak, vuil maakt, vuil maakte, vuil maakten, vuil gemaakt

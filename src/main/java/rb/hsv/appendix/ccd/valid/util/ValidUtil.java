@@ -2819,6 +2819,7 @@ public class ValidUtil {
                 || keyArg.equals("plaatsvinden")
                 || keyArg.equals("rust vinden")
                 || keyArg.equals("schuld vinden")
+                || keyArg.equals("terugvinden")
                 || keyArg.equals("troost vinden")
                 || keyArg.equals("vreugde vinden")
                 || keyArg.equals("vrijmoedigheid vinden");
