@@ -1418,6 +1418,7 @@ public class ValidUtil {
 
         var isTeCheckenWerkwoord = keyArg.equals("afleveren")
                 || keyArg.equals("bewijs leveren")
+                || keyArg.equals("opleveren")
                 || keyArg.equals("overleveren")
                 || keyArg.equals("uitleveren");
 

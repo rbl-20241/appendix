@@ -4,6 +4,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.io.File;
 
+import static rb.hsv.appendix.ccd.valid.util.ValidUtil.IS_NOT_FOUND;
 import static rb.hsv.appendix.ccd.valid.util.ValidUtil.isValidVerse;
 
 public class ValidLeveren {
@@ -13,6 +14,7 @@ public class ValidLeveren {
             case "afleveren" -> isAfleveren(curFile, vs);
             case "bewijs leveren" -> isBewijsLeveren(curFile, vs);
             case "lever" -> isLever(curFile, vs);
+            case "opleveren" -> IS_NOT_FOUND;
             case "overleveren" -> isOverleveren(curFile, vs);
             case "uitleveren" -> isUitleveren(curFile, vs);
             case "leveren" -> isLeveren(curFile, vs);
