@@ -1484,6 +1484,11 @@ public class ValidUtil {
         return isValid;
     }
 
+    public static boolean isLijken(final @NotNull String keyArg) {
+        return keyArg.equals("lijk")
+                || keyArg.equals("lijken");
+    } // isLijken
+
     public static boolean isLikken(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isTeCheckenWerkwoord = keyArg.equals("oplikken");
         var isTeCheckenString = keyArg.equals("likken");

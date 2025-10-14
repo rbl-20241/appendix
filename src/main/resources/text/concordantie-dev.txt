@@ -1,17 +1,8 @@
-// bal - ballen
-// ineenrollen # ineenrol, ineenrolt, ineenrolde, ineenrolden, ineengerold, ineen rollen, ineen rol, ineen rolt, ineen rolde, ineen rolden, ineen gerold
-// krijgsmacht - krijgsmachten
-// lijk -lijken
-// lijken - lijk, lijkt, leek, leken, geleken
-// mama
-// papa
-// reservoir - reservoirs
-// slaken - slaak, slaakt, slaakte, slaakten, geslaakt
-// teneerdrukken # teneerdruk, teneerdrukt, teneerdrukte, teneerdrukten, teneergedrukt, teneer drukken, teneer druk, teneer drukt, teneer drukte, teneer drukten, teneer gedrukt
-// uitbarsten # uitbarst, uitbarstte, uitbarstten, uitgebartsen, uit barsten, uit barst, uit barstte, uit barstten, uit gebartsen
-// uiteenslaan # uiteensla, uiteenslaat, uiteensloeg, uiteensloegen, uiteengeslagen, uiteen slaan, uiteen sla, uiteen slaat, uiteen sloeg, uiteen sloegen, uiteen geslagen
-// uitgebreid - uitgebreide
-// uitplunderen # uitplunder, uitplundert, uitplunderde, uitplunderden, uitgeplunderd, uit plunderen, uit plunder, uit plundert, uit plunderde, uit plunderden, uit geplunderd
+teneerdrukken # teneerdruk, teneerdrukt, teneerdrukte, teneerdrukten, teneergedrukt, teneer drukken, teneer druk, teneer drukt, teneer drukte, teneer drukten, teneer gedrukt
+uitbarsten # uitbarst, uitbarstte, uitbarstten, uitgebartsen, uit barsten, uit barst, uit barstte, uit barstten, uit gebartsen
+uiteenslaan # uiteensla, uiteenslaat, uiteensloeg, uiteensloegen, uiteengeslagen, uiteen slaan, uiteen sla, uiteen slaat, uiteen sloeg, uiteen sloegen, uiteen geslagen
+uitgebreid - uitgebreide
+uitplunderen # uitplunder, uitplundert, uitplunderde, uitplunderden, uitgeplunderd, uit plunderen, uit plunder, uit plundert, uit plunderde, uit plunderden, uit geplunderd
 // vastslaan # vastsla, vastslaat, vastsloeg, vastsloegen, vastgeslagen, vast slaan, vast sla, vast slaat, vast sloeg, vast sloegen, vast geslagen
 // vermolmd - vermolde
 // voortdrijven # voortdrijf, voortdrijft, voortdreef, voortdreven, voortgedreven, voort drijven, voort drijf, voort drijft, voort dreef, voort dreven, voort gedreven

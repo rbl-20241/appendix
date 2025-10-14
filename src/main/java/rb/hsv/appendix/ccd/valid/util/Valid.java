@@ -206,6 +206,8 @@ public class Valid {
             isValid = ValidLichten.isValid(keyArg, arg, curFile, vs);
         } else if (isLiggen(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidLiggen.isValid(keyArg, curFile, vs);
+        } else if (isLijken(keyArg)) {
+            isValid = ValidLijken.isValid(keyArg, curFile, vs);
         } else if (isLikken(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidLikken.isValid(keyArg, curFile, vs);
         } else if (isLinker(keyArg, arg)) {
