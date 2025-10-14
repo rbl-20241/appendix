@@ -1068,7 +1068,9 @@ public class ValidUtil {
     } // isHouden
 
     public static boolean isHouwen(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
-        var isTeCheckenWerkwoord = keyArg.equals("uithouwen");
+        var isTeCheckenWerkwoord = keyArg.equals("afhouwen")
+                || keyArg.equals("omhouwen")
+                || keyArg.equals("uithouwen");
         var isTeCheckenString = keyArg.equals("houwen")
                 || keyArg.equals("in stukken houwen");
 

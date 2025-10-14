@@ -5,13 +5,16 @@ import org.jetbrains.annotations.NotNull;
 import java.io.File;
 
 import static rb.hsv.appendix.ccd.Util.isEqual;
+import static rb.hsv.appendix.ccd.valid.util.ValidUtil.IS_NOT_FOUND;
 import static rb.hsv.appendix.ccd.valid.util.ValidUtil.isValidVerse;
 
 public class ValidHouwen {
 
     public static boolean isValid(final @NotNull String keyArg, final @NotNull String arg, final File curFile, final String vs) {
         return switch (keyArg) {
+            case "afhouwen" -> IS_NOT_FOUND;
             case "in stukken houwen" -> isInStukkenHouwen(curFile, vs, keyArg, arg);
+            case "omhouwen" -> isOmhouwen(curFile, vs);
             case "uithouwen" -> isUithouwen(curFile, vs);
             case "houwen" -> isHouwen(curFile, vs, keyArg, arg);
             default -> true;
@@ -31,6 +34,10 @@ public class ValidHouwen {
         return false;
     } // isInStukkenHouwen
 
+    public static boolean isOmhouwen(final File curFile, final String vs) {
+        return isValidVerse(curFile, vs, "Dan-04.html#vs14", 23);
+    } // isOmhouwen
+
     public static boolean isUithouwen(final File curFile, final String vs) {
         return isValidVerse(curFile, vs, "Exod-34.html#vs1", 4)
                 || isValidVerse(curFile, vs, "Deut-10.html#vs1", 3)
@@ -39,6 +46,7 @@ public class ValidHouwen {
 
     public static boolean isHouwen(final File curFile, final String vs, final @NotNull String keyArg, final @NotNull String arg) {
         return !isInStukkenHouwen(curFile, vs, keyArg, arg)
+                && !isOmhouwen(curFile, vs)
                 && !isUithouwen(curFile, vs);
     } // isHouwen
 }
