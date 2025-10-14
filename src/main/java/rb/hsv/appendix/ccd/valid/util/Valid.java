@@ -368,6 +368,8 @@ public class Valid {
             isValid = ValidTrekken.isValid(keyArg, curFile, vs);
         } else if (isTwijfelen(keyArg)) {
             isValid = ValidTwijfelen.isValid(keyArg, curFile, vs);
+        } else if (isUitbreiden(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidUitbreiden.isValid(keyArg, curFile, vs);
         } else if (isUitDeWeg(keyArg)) {
             isValid = ValidUitDeWeg.isValid(keyArg, arg, curFile, vs);
         } else if (isUur(keyArg)) {

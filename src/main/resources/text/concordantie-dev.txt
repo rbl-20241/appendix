@@ -1,9 +1,9 @@
-teneerdrukken # teneerdruk, teneerdrukt, teneerdrukte, teneerdrukten, teneergedrukt, teneer drukken, teneer druk, teneer drukt, teneer drukte, teneer drukten, teneer gedrukt
-uitbarsten # uitbarst, uitbarstte, uitbarstten, uitgebartsen, uit barsten, uit barst, uit barstte, uit barstten, uit gebartsen
-uiteenslaan # uiteensla, uiteenslaat, uiteensloeg, uiteensloegen, uiteengeslagen, uiteen slaan, uiteen sla, uiteen slaat, uiteen sloeg, uiteen sloegen, uiteen geslagen
+uitbarsten
+uiteenslaan
 uitgebreid - uitgebreide
 uitplunderen # uitplunder, uitplundert, uitplunderde, uitplunderden, uitgeplunderd, uit plunderen, uit plunder, uit plundert, uit plunderde, uit plunderden, uit geplunderd
 // vastslaan # vastsla, vastslaat, vastsloeg, vastsloegen, vastgeslagen, vast slaan, vast sla, vast slaat, vast sloeg, vast sloegen, vast geslagen
 // vermolmd - vermolde
 // voortdrijven # voortdrijf, voortdrijft, voortdreef, voortdreven, voortgedreven, voort drijven, voort drijf, voort drijft, voort dreef, voort dreven, voort gedreven
 // wegstoten # wegstoot, wegstootte, wegstootten, weggestoten, weg stoten, weg stoot, weg stootte, weg stootten, weg gestoten
+uitbreiden # uitbreidt, uitbreidde, uitgebreid, breid uit, breidt uit, breidde uit, breidden uit

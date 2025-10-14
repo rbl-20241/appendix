@@ -2653,6 +2653,13 @@ public class ValidUtil {
                 || keyArg.equals("twijfelen");
     } //isTwijfelen
 
+    public static boolean isUitbreiden(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("uitbreiden");
+        var isTeCheckenString = keyArg.equals("uitgebreid");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isTreffen
+
     public static boolean isUitDeWeg(final @NotNull String keyArg) {
         return keyArg.equals("uit de weg gaan")
                 || keyArg.equals("uit de weg ruimen");
