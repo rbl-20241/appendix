@@ -29,6 +29,7 @@ public class ValidSlaan {
             case "platslaan" -> isPlatslaan();
             case "stukslaan" -> isStukslaan(curFile, vs);
             case "toeslaan" -> isToeslaan(curFile, vs);
+            case "vastslaan" -> isVastslaan(curFile, vs);
             case "slaan" -> isSlaan(curFile, vs, arg);
             default -> true;
         };
@@ -304,6 +305,10 @@ public class ValidSlaan {
                 || isValidVerse(curFile, vs, "Ezek-21.html#vs28");
     } // isToeslaan
 
+    public static boolean isVastslaan(final File curFile, final String vs) {
+        return isValidVerse(curFile, vs, "Isa-54.html#vs2");
+    } // isVastslaan
+
     public static boolean isSlaan(final File curFile, final String vs, final String arg) {
         return !isAfslaan()
                 && !isAlarmSlaan(curFile, vs)
@@ -322,6 +327,7 @@ public class ValidSlaan {
                 && !isOverslaan()
                 && !isPlatslaan()
                 && !isStukslaan(curFile, vs)
-                && !isToeslaan(curFile, vs);
+                && !isToeslaan(curFile, vs)
+                && !isVastslaan(curFile, vs);
     } // isSlaan
 }

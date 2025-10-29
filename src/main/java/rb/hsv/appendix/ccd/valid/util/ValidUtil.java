@@ -2156,7 +2156,8 @@ public class ValidUtil {
                 || keyArg.equals("overslaan")
                 || keyArg.equals("platslaan")
                 || keyArg.equals("stukslaan")
-                || keyArg.equals("toeslaan");
+                || keyArg.equals("toeslaan")
+                || keyArg.equals("vastslaan");
 
         var isTeCheckenString = keyArg.equals("in stukken slaan")
                 || keyArg.equals("met de ban slaan");
