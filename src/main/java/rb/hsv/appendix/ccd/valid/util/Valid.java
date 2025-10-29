@@ -254,6 +254,8 @@ public class Valid {
             isValid = ValidPlanten.isValid(keyArg, arg, curFile, vs);
         } else if (isPlukken(keyArg, isSamengesteldWerkwoord)) {
             isValid = ValidPlukken.isValid(keyArg, curFile, vs);
+        } else if (isPlunderen(keyArg, isSamengesteldWerkwoord)) {
+            isValid = ValidPlunderen.isValid(keyArg, curFile, vs);
         } else if (isPriester(arg)) {
             isValid = ValidPriester.isValid(arg, curFile, vs);
         } else if (isPutten(keyArg, isSamengesteldWerkwoord)) {

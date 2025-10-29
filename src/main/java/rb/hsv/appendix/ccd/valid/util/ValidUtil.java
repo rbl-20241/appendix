@@ -1801,6 +1801,13 @@ public class ValidUtil {
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
     } // isPlukken
 
+    public static boolean isPlunderen (final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
+        var isTeCheckenWerkwoord = keyArg.equals("uitplunderen");
+        var isTeCheckenString = keyArg.equals("plunderen");
+
+        return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;
+    } // isPlukken
+
     public static boolean isPriester(final @NotNull String arg) {
         return arg.equals("Priester");
     } // isPriester
