@@ -2520,7 +2520,8 @@ public class ValidUtil {
 
     public static boolean isStoten(final @NotNull String keyArg, final boolean isSamengesteldWerkwoord) {
         var isTeCheckenWerkwoord = keyArg.equals("neerstoten")
-                || keyArg.equals("uitstoten");
+                || keyArg.equals("uitstoten")
+                || keyArg.equals("wegstoten");
         var isTeCheckenString = keyArg.equals("stoten");
 
         return (isSamengesteldWerkwoord && isTeCheckenWerkwoord) || isTeCheckenString;

@@ -8579,3 +8579,23 @@ vergaren - vergaarde, vergaard
 vergroten - vergroot
 vorstendochter
 vuilmaken
+afhouwen # afgehouwen
+omhouwen # om houw
+afkappen # afgekapt
+bal
+ineenrollen
+krijgsmacht
+lijk
+lijken - lijk, lijkt, leek, leken
+mama
+papa
+reservoir
+slaken - geslaakt
+uitbarsten
+uiteenslaan
+uitgebreid - uitgebreide
+uitplunderen # uitgeplunderd, uit plunderen, uit plunderde, uit plunderden
+vastslaan # vastgeslagen, vast sla
+vermolmd
+voortdrijven # voortgedreven
+wegstoten # weggestoten, weg stoten, weg stoot

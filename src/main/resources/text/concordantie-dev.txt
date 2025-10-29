@@ -1,4 +1,4 @@
 vastslaan # vastgeslagen, vast sla
 vermolmd
 voortdrijven # voortgedreven
-wegstoten # wegstoot, wegstootte, wegstootten, weggestoten, weg stoten, weg stoot, weg stootte, weg stootten, weg gestoten
+wegstoten # weggestoten, weg stoten, weg stoot
